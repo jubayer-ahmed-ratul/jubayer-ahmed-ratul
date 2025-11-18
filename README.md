@@ -2,9 +2,12 @@
   <img src="GITBANNER.png" alt="banner" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Jubayer Ahmed Ratul</h1>
+<h3 align="center">MERN Stack Developer | Frontend Specialist</h3>
+
 ---
 
-### 🌐 Connect with Me:
+## 🌐 Connect with Me
 <p align="left">
 <a href="https://fb.com/jubayer.ahmed.839974" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
@@ -13,7 +16,27 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🚀 About Me
+- MERN Stack Developer  
+- Passionate about frontend interfaces & clean UI  
+- Learning backend architecture and deployment  
+- Always exploring new technologies  
+
+---
+
+## 🧩 Skills Overview
+
+| Category              | Technologies                                                                 |
+|-----------------------|-------------------------------------------------------------------------------|
+| **Languages**         | JavaScript, TypeScript                                                        |
+| **Frontend**          | HTML5, CSS3, TailwindCSS, React, Next.js, Redux, Vue.js                      |
+| **Back-End**          | Node.js, Express.js, Prisma                                                   |
+| **Database**          | MongoDB, MySQL, PostgreSQL                                                    |
+| **Tools & Platforms** | Git, GitHub, Firebase, JWT, Postman, VS Code                                  |
+
+---
+
+## 🛠️ Languages & Tools (Icons)
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
@@ -37,7 +60,16 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jubayer-ahmed-ratul&show_icons=true&locale=en" /></p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jubayer-ahmed-ratul&show_icons=true&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jubayer-ahmed-ratul" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayer-ahmed-ratul&theme=tokyonight" />
+</p>
+
+---
+
+## 🎉 Thanks for Visiting!
+⭐ Feel free to explore my repositories and connect with me!
