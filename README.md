@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jubayer Ahmed Ratul</h1>
-<h3 align="center">MERN Stack Developer | Frontend Developer</h3>
+<p align="center">
+  <img src="GITBANNER.png" alt="banner" />
+</p>
 
 ---
 
