@@ -29,9 +29,9 @@
 | Category              | Technologies                                                                 |
 |-----------------------|-------------------------------------------------------------------------------|
 | **Languages**         | JavaScript, TypeScript                                                        |
-| **Frontend**          | HTML5, CSS3, TailwindCSS, React, Next.js, Redux, Vue.js                      |
-| **Back-End**          | Node.js, Express.js, Prisma                                                   |
-| **Database**          | MongoDB, MySQL, PostgreSQL                                                    |
+| **Frontend**          | HTML5, CSS3, TailwindCSS, React, Next.js,                      |
+| **Back-End**          | Node.js, Express.js                                                   |
+| **Database**          | MongoDB                                                   |
 | **Tools & Platforms** | Git, GitHub, Firebase, JWT, Postman, VS Code                                  |
 
 ---
